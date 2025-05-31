@@ -9,10 +9,16 @@ This effort is both a tribute to the original creators and an educational exerci
 ## 🎬 About the Song
 
 - **🎶 Song Title**: *Ullasam*  
-- **🎥 Movie**: *Saripodhaa Sanivaaram* (2024)  
-- **🎼 Composer**: Jakes Bejoy 
-- **🎤 Singer**: Sanjith Hegde, Krishna Lasya Muthyala
+- **🎥 Movie**: [*Saripodhaa Sanivaaram* (2024)](https://en.wikipedia.org/wiki/Saripodhaa_Sanivaaram)  
+- **🎼 Composer**: Jakes Bejoy  
+- **🎤 Singers**: Sanjith Hegde, Krishna Lasya Muthyala  
 - **🖋️ Lyricist**: Sanare  
+- **🌐 Language**: Telugu
+- The song is also dubbed and available in Tamil, Hindi, Malayalam and Kannada under the same name with different lyricists and singers.
+
+🎧 Listen to the original:  
+- [Spotify](https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c?si=ae78d902ad844278)  
+- [YouTube - Video Song](https://youtu.be/7lFAh_BR3_E?si=LYJ_ywtVmR3AaF4c)
 
 > ⚠️ This song is the intellectual property of its rightful owners. This is a non-commercial project created solely for educational and entertainment purposes.
 
